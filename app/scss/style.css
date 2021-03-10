@@ -576,6 +576,11 @@ button:hover::before,
   margin-bottom: 1.875rem;
 }
 
+.feature__icon img {
+  width: 50%;
+  height: 50%;
+}
+
 @media (min-width: 64em) {
   .feature__icon {
     margin-bottom: 2.75rem;
